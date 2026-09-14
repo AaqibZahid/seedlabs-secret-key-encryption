@@ -1,0 +1,24 @@
+# Output files
+*_output/
+*.enc
+*.bin
+
+# Encrypted images (generated)
+*.bmp
+!Labsetup/Files/pic_original.bmp
+
+# Screenshots and images
+screenshots/
+*.png
+
+# Reports
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
